@@ -6,12 +6,6 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:background">@android:color/transparent</item>
-        <item name="android:textColor">@android:color/black</item>
-    </style>
-
-    <style name="TextColor" parent="@style/TextAppearance.AppCompat.Medium">
-        <item name="android:textColor">#FFFFFF</item>
     </style>
 
 </resources>
